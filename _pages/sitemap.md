@@ -4,7 +4,7 @@ title: "Sitemap"
 permalink: /secret-sitemap/
 author_profile: true
 ---
-<!-- # Our secret custom link! Note: if a page's front matter contains "sitemap: false", it will not occur here? -->
+<!-- # Our custom link! Note: if a page's front matter contains "sitemap: false", it will not occur here. -->
 
 {% include base_path %}
 

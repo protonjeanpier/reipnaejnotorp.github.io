@@ -1,3 +1,26 @@
+# NOTE
+This is a public repo. Do not leave any sensitive information.
+```
+
+For images/file links:
+Important: Capitalization matters, even for the file extension name. 
+For about.md, use ![Another one](images/ggb.jpg)
+For other pages like /pages/other.md, use ![Group Photo](../images/mcCarthyAward.JPG){: .align-right width="300px"}
+If you are in a collection/folder like /_portfolio/portfolio-2.html, you'll have to go 2 directories up, but the image in the excerpt only has to go up 1 directory.
+
+To align and resize images: 
+    <img align="left" width="300px" src="../images/mcCarthyAward.JPG">
+    ![Group Photo](../images/mcCarthyAward.JPG){: .align-right width="300px"}
+    <img src="../images/mcCarthyAward.jpg" alt="Group Photo 1" width="400" />
+    ![mypics](../images/mcCarthyAward.jpg){: width="400px" style="float:right; padding-left:10px" }
+    # I believe height and with are locked in the original aspect ratio, so just pick one.
+
+To use jekyll to host locally, go to VSCode terminal and enter: bundle exec jekyll serve
+First run this in VSCode terminal: gem install tzinfo-data
+Then put this in your Gemfile, or you'll get a missing gem error:
+    gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
+```
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
