@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Being Asian'
 date: 2025-12-23
 tags:
   - en
