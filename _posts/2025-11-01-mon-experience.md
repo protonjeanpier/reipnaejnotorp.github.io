@@ -1,5 +1,5 @@
 ---
-title: 'Mon Expérience Avec La Douleur'
+title: 'Mon Expérience Avec Le Chagrin'
 date: 2025-11-01
 tags:
   - fr
