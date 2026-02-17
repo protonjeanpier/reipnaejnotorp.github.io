@@ -1,7 +1,6 @@
 # NOTE
 This is a public repo. Do not leave any sensitive information.
 ```
-
 For images/file links:
 Important: Capitalization matters, even for the file extension name. 
 For about.md, use ![Another one](images/ggb.jpg)
