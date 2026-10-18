@@ -30,34 +30,3 @@ That being said, I do understand that great connections are rare. Of course, I k
 
 Like Lex said:
 > Trust me, our friendship is gonna be the stuff of legends...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
